@@ -1,0 +1,1 @@
+./unfold_minuit /data2/jisaak/gamma3/128Te/unfolding/singles/singles_LABR_sum_5640_all_30keV.asc /data2/jisaak/gamma3/geant/01_Labr_1 01_Labr_1 3000 6000 30 3 2 MIGRAD 100000
